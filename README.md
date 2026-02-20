@@ -1,7 +1,5 @@
-<h1 align="center">Hi, I'm Jai</h1>
-<p align="center">
-  Frontend-focused developer building practical, high-performance web apps.
-</p>
+<h1 align="center">Jai | Frontend Developer</h1>
+<p align="center">I build fast, practical web products with React, TypeScript, and clean UX.</p>
 
 <p align="center">
   <a href="https://github.com/JAI1209">
@@ -12,14 +10,20 @@
   </a>
 </p>
 
-## About Me
+## Banner
 
-- Building modern interfaces with **React + TypeScript + Vite**
-- Managing complex app state with **Redux Toolkit**
-- Interested in media-rich products, frontend architecture, and UX performance
-- Currently focused on improving and scaling **Nuve Player**
+```text
+Design clean. Build fast. Ship reliably.
+```
 
-## Tech Stack
+## About
+
+- Frontend-focused developer
+- Primary stack: React, TypeScript, Vite
+- State management with Redux Toolkit
+- Building and improving Nuve Player
+
+## Tech
 
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
@@ -30,14 +34,24 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
-## Featured Project
+## Projects
 
-### Nuve Player
-A React + TypeScript music/video player with category discovery, search, and personalized playback behavior.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Nuve Player</h3>
+      <p>React + TypeScript music/video player with search, categories, and personalized playback behavior.</p>
+      <p><a href="https://github.com/JAI1209/Nuve">Open Repository</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>More Coming</h3>
+      <p>Actively building and expanding production-ready frontend projects.</p>
+      <p><a href="https://github.com/JAI1209?tab=repositories">View Repositories</a></p>
+    </td>
+  </tr>
+</table>
 
-- Repository: [JAI1209/Nuve](https://github.com/JAI1209/Nuve)
-
-## GitHub Analytics
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JAI1209&show_icons=true&theme=default" alt="GitHub stats" />
@@ -50,6 +64,3 @@ A React + TypeScript music/video player with category discovery, search, and per
 ## Connect
 
 - GitHub: [@JAI1209](https://github.com/JAI1209)
-
----
-Focused on shipping useful products, learning fast, and leveling up with every build.
