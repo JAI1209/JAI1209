@@ -1,7 +1,7 @@
 <h1 align="center">Jai</h1>
 
 <p align="center">
-  Frontend Engineer | React • TypeScript • Scalable UI Systems
+  <img src="https://raw.githubusercontent.com/JAI1209/JAI1209/main/logo.svg" width="120" />
 </p>
 
 <p align="center">
