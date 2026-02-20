@@ -1,76 +1,61 @@
 <h1 align="center">Jai</h1>
+
 <p align="center">
-  Frontend Engineer | React • TypeScript • Scalable Systems
+  Frontend Engineer | React • TypeScript • Scalable UI Systems
 </p>
 
 <p align="center">
-  I build performant, production-grade web applications with measurable impact,
-  clean architecture, and predictable state management.
+  I design and build high-performance web applications with clean architecture,
+  predictable state management, and measurable performance improvements.
 </p>
 
 ---
 
-## Professional Summary
+## Professional Snapshot
 
-- 3+ production-grade frontend projects
-- Architected modular React systems improving maintainability
-- Reduced unnecessary re-renders through structured state normalization
-- Built search-driven UI workflows with optimized rendering patterns
-- Strong focus on scalability, performance, and clean code standards
+- Delivered 3+ production-grade frontend applications
+- Architected modular React systems to improve scalability and maintainability
+- Optimized rendering behavior through structured state normalization
+- Built search-driven dynamic UI workflows with efficient data flow
+- Strong emphasis on performance, clarity, and system design fundamentals
 
 ---
 
-## Quantified Engineering Impact
+## Engineering Impact
 
-- ⚡ Improved UI rendering efficiency by optimizing component memoization patterns
-- 📦 Reduced state complexity by centralizing data flow using Redux Toolkit
-- 🔍 Implemented structured search logic for dynamic content filtering
-- 🧩 Increased code reusability through modular component architecture
-- 🚀 Leveraged Vite for faster dev builds and optimized production bundling
+- Improved render efficiency through memoization and component restructuring
+- Reduced state complexity by centralizing data management with Redux Toolkit
+- Designed scalable search and filtering logic for dynamic content systems
+- Increased code reuse via modular component architecture
+- Leveraged Vite to accelerate development cycles and optimize production builds
 
 ---
 
 ## Technical Stack
 
 ### Frontend
-- React
-- TypeScript
-- Vite
-- Redux Toolkit
-- JavaScript (ES6+)
-- HTML5 / CSS3
+React • TypeScript • Vite • Redux Toolkit • JavaScript (ES6+) • HTML5 • CSS3
 
 ### Backend Exposure
-- Node.js
-- Express.js
-- REST API design
-- API integration & async handling
-- Environment configuration management
+Node.js • Express.js • RESTful APIs • Async data handling • Environment configuration
 
 ### Testing
-- Jest
-- React Testing Library
-- Unit testing patterns
-- Component behavior validation
+Jest • React Testing Library • Unit & component validation strategies
 
 ### DevOps & CI/CD
-- Git & GitHub workflows
-- Branch-based development
-- Environment variable management
-- Build optimization strategies
-- Basic CI pipeline understanding
+Git • GitHub workflows • Branch-based development • Build optimization • CI fundamentals
 
 ---
 
-## System Design Interests
+## System Design Focus
 
 - Scalable frontend architecture
-- State normalization & predictable data flow
-- Component-driven system design
+- Predictable state normalization patterns
+- Component-driven system modeling
 - Performance optimization strategies
-- Client-server interaction patterns
+- Client–server interaction design
 - Modular codebase structuring
-- Real-time collaboration systems (future focus)
+- Real-time collaboration systems (exploratory focus)
 
 ---
 
@@ -78,27 +63,26 @@
 
 ### Nuve Player
 
-A scalable media interface built using React + TypeScript.
+A scalable media streaming interface built with React and TypeScript.
 
-Key Engineering Highlights:
-
-- Structured state management with Redux Toolkit
-- Dynamic search & category-based filtering
-- Optimized component rendering flow
-- Modular and reusable UI architecture
-- Clean navigation patterns
+**Engineering Highlights**
+- Centralized state management with Redux Toolkit
+- Dynamic search and category-driven filtering
+- Optimized component render flow
+- Modular, reusable UI architecture
+- Structured navigation and predictable UX patterns
 
 Repository:
 https://github.com/JAI1209/Nuve
 
 ---
 
-## Engineering Principles
+## Engineering Philosophy
 
-- Prioritize scalability over shortcuts.
-- Optimize based on measurable bottlenecks.
-- Prefer predictable systems over complex abstractions.
-- Build reusable patterns, not one-off features.
+- Engineer for scale.
+- Optimize with intent.
+- Prefer clarity over cleverness.
+- Build reusable systems.
 - Ship consistently and iterate deliberately.
 
 ---
@@ -115,13 +99,13 @@ https://github.com/JAI1209/Nuve
 
 ---
 
-## Contact
+## Connect
 
-- GitHub: https://github.com/JAI1209
+- GitHub: https://github.com/JAI1209  
 - LinkedIn: https://www.linkedin.com/in/jai1209/
 
 ---
 
 <p align="center">
-  Engineer for scale. Design with intent. Ship with discipline.
+  Design with intent. Engineer for scale. Ship with discipline.
 </p>
