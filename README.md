@@ -190,3 +190,51 @@ Engineer for scale
 Ship with discipline
 
 </p>
+
+
+
+
+
+---
+
+# 🧊 3D Contribution Cube
+
+<p align="center">
+
+<img src="https://github-contributor-stats.vercel.app/api?username=JAI1209&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
+
+</p>
+
+---
+
+# 🏆 Developer Achievements
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=JAI1209&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
+
+</p>
+
+---
+
+# 📊 Advanced Activity Dashboard
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=JAI1209&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 Productivity Metrics
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JAI1209&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JAI1209&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JAI1209&theme=tokyonight"/>
+
+</p>
