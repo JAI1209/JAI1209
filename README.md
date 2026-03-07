@@ -1,11 +1,11 @@
 <p align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=35&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Jai+%7C+Frontend+Engineer;System+Architecture+Thinker;Performance+Focused+Developer;Building+Scalable+Web+Applications"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=34&duration=3000&pause=1200&color=00F7FF&center=true&vCenter=true&width=900&lines=Jai+%7C+Frontend+Engineer;Building+Scalable+Web+Systems;System+Architecture+Focused;Performance+Driven+Engineering"/>
 
 </p>
 
 <p align="center">
-<img src="https://media.giphy.com/media/3o7TKsQ8UQYfR4g0q4/giphy.gif" width="700"/>
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="750"/>
 </p>
 
 ---
@@ -14,23 +14,25 @@
 
 ### Frontend Engineer • System Thinker • Performance Architect
 
-Designing scalable web applications with **clean architecture, predictable state management, and performance-focused engineering**.
+I design and build **scalable web systems** with clean architecture, predictable state management, and measurable performance improvements.
+
+My engineering philosophy focuses on **clarity, modularity, and performance-first design.**
 
 ---
 
-# 🧠 Developer Dashboard
+# 🧠 Engineering Dashboard
 
-| Focus Area | Strategy |
-|------------|----------|
+| Domain | Focus |
+|------|------|
 | Frontend Architecture | Modular React systems |
 | Performance Engineering | Memoization & render optimization |
 | State Management | Redux Toolkit normalization |
 | System Design | Component-driven architecture |
-| UI Workflows | Search-driven dynamic systems |
+| Developer Experience | Fast builds with Vite |
 
 ---
 
-# ⚙️ Technology Stack
+# ⚙️ Tech Stack
 
 ### Frontend
 
@@ -65,10 +67,25 @@ Git • GitHub • CI/CD fundamentals
 <p align="center">
 
 <a href="https://github.com/JAI1209/Nuve">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=JAI1209&repo=Nuve&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=JAI1209&repo=Nuve&theme=tokyonight"/>
 </a>
 
 </p>
+
+### Nuve Player
+
+Scalable media streaming UI built with **React + TypeScript**
+
+Key engineering features:
+
+• Redux Toolkit state architecture  
+• Dynamic search and filtering  
+• Optimized component render pipeline  
+• Modular reusable UI components  
+
+Repository:
+
+https://github.com/JAI1209/Nuve
 
 ---
 
@@ -76,12 +93,12 @@ Git • GitHub • CI/CD fundamentals
 
 Exploring next-generation intelligent systems.
 
-Current research directions:
+Current focus:
 
 • AI Teacher System  
 • Intelligent learning platforms  
 • Human-AI collaboration systems  
-• Real-time knowledge interfaces  
+• Real-time knowledge interfaces
 
 ---
 
@@ -90,15 +107,15 @@ Current research directions:
 ### Current Focus
 
 • Advanced React architecture  
-• Scalable state management  
+• Scalable frontend system design  
 • Performance optimization  
-• Frontend system design  
+• State management strategies
 
 ### Future Exploration
 
-• Real-time collaborative applications  
-• AI-powered developer tools  
-• Distributed system design  
+• Real-time collaborative apps  
+• AI-driven development tools  
+• Distributed system architecture
 
 ---
 
@@ -146,7 +163,7 @@ Current research directions:
 
 ---
 
-# 🎯 Engineering Philosophy
+# 🧠 Developer Manifesto
 
 Engineer for scale  
 Optimize with intent  
