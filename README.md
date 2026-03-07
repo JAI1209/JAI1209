@@ -91,11 +91,12 @@ https://github.com/JAI1209/Nuve
 ## GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JAI1209&show_icons=true&hide_border=true" />
+  <img width="1536" height="1024" alt="ChatGPT Image Feb 26, 2026, 03_33_34 PM" src="https://github.com/user-attachments/assets/62752822-11bd-44f9-80f5-28d0d5d8316a" />
+
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JAI1209&layout=compact&hide_border=true" />
+  
 </p>
 
 ---
