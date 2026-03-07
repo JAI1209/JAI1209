@@ -35,19 +35,15 @@ My engineering philosophy focuses on **clarity, modularity, and performance-firs
 # ⚙️ Tech Stack
 
 ### Frontend
-
 React • TypeScript • JavaScript • Redux Toolkit • Vite • HTML5 • CSS3
 
 ### Backend Exposure
-
 Node.js • Express.js • REST APIs
 
 ### Testing
-
 Jest • React Testing Library
 
 ### DevOps
-
 Git • GitHub • CI/CD fundamentals
 
 ---
@@ -55,14 +51,12 @@ Git • GitHub • CI/CD fundamentals
 # 🧩 Skill Matrix
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,express,git,github,vite,redux,html,css"/>
-
+<img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,express,redux,vite,git,github,html,css"/>
 </p>
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 Featured Project
 
 <p align="center">
 
@@ -76,15 +70,14 @@ Git • GitHub • CI/CD fundamentals
 
 Scalable media streaming UI built with **React + TypeScript**
 
-Key engineering features:
+Key features:
 
-• Redux Toolkit state architecture  
+• Redux Toolkit centralized state  
 • Dynamic search and filtering  
-• Optimized component render pipeline  
-• Modular reusable UI components  
+• Optimized rendering pipeline  
+• Modular UI architecture
 
-Repository:
-
+Repository  
 https://github.com/JAI1209/Nuve
 
 ---
@@ -105,17 +98,15 @@ Current focus:
 # 🧭 Engineering Roadmap
 
 ### Current Focus
-
 • Advanced React architecture  
-• Scalable frontend system design  
+• Scalable frontend systems  
 • Performance optimization  
 • State management strategies
 
 ### Future Exploration
-
 • Real-time collaborative apps  
-• AI-driven development tools  
-• Distributed system architecture
+• AI-powered developer tools  
+• Distributed system design
 
 ---
 
@@ -136,9 +127,7 @@ Current focus:
 # 📈 Contribution Graph
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JAI1209&theme=tokyo-night&hide_border=true"/>
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=JAI1209&theme=tokyo-night"/>
 </p>
 
 ---
@@ -146,65 +135,7 @@ Current focus:
 # 🧊 Contribution Metrics
 
 <p align="center">
-
 <img src="https://github-contributor-stats.vercel.app/api?username=JAI1209&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
----
-
-# 🧠 Developer Manifesto
-
-Engineer for scale  
-Optimize with intent  
-Prefer clarity over cleverness  
-Build systems, not just features  
-Ship consistently and iterate deliberately
-
----
-
-# 🌐 Connect
-
-GitHub  
-https://github.com/JAI1209  
-
-LinkedIn  
-https://www.linkedin.com/in/jai1209/
-
----
-
-<p align="center">
-
-Design with intent  
-Engineer for scale  
-Ship with discipline
-
-</p>
-
-
-
-
-
----
-
----
-
-# 🧊 3D Contribution Cube
-
-<p align="center">
-
-<img src="https://github-contributor-stats.vercel.app/api?username=JAI1209&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
-
 </p>
 
 ---
@@ -212,19 +143,7 @@ Ship with discipline
 # 🏆 Developer Achievements
 
 <p align="center">
-
 <img src="https://github-profile-trophy.vercel.app/?username=JAI1209&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</p>
-
----
-
-# 📊 Advanced Activity Dashboard
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JAI1209&theme=tokyo-night"/>
-
 </p>
 
 ---
@@ -241,4 +160,38 @@ Ship with discipline
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JAI1209&theme=tokyonight"/>
 
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/JAI1209/JAI1209/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+---
+
+# 🧠 Developer Philosophy
+
+Engineer for scale  
+Optimize with intent  
+Prefer clarity over cleverness  
+Build systems, not features  
+Ship consistently and iterate deliberately
+
+---
+
+# 🌐 Connect
+
+GitHub  
+https://github.com/JAI1209  
+
+LinkedIn  
+https://www.linkedin.com/in/jai1209/
+
+---
+
+<p align="center">
+Design with intent • Engineer for scale • Ship with discipline
 </p>
