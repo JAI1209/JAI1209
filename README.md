@@ -1,7 +1,8 @@
 <h1 align="center">Jai</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/JAI1209/JAI1209/main/logo.svg" width="120" />
+  <img width="1536" height="1024" alt="ChatGPT Image Feb 26, 2026, 03_28_25 PM" src="https://github.com/user-attachments/assets/8f016c0d-d24b-4b3d-a235-58ad6c6184c8" />
+
 </p>
 
 <p align="center">
