@@ -197,6 +197,8 @@ Ship with discipline
 
 ---
 
+---
+
 # 🧊 3D Contribution Cube
 
 <p align="center">
@@ -211,7 +213,7 @@ Ship with discipline
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=JAI1209&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=JAI1209&theme=tokyonight&no-frame=true&row=1&column=7"/>
 
 </p>
 
@@ -221,7 +223,7 @@ Ship with discipline
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JAI1209&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=JAI1209&theme=tokyo-night"/>
 
 </p>
 
@@ -232,6 +234,8 @@ Ship with discipline
 <p align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JAI1209&theme=tokyonight"/>
+
+<br>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JAI1209&theme=tokyonight"/>
 
