@@ -14,17 +14,9 @@
 
 ### Frontend Engineer • System Thinker • Performance Focused Developer
 
-I design and engineer **scalable frontend systems** with emphasis on **clean architecture, predictable state management, and measurable performance improvements.**
+I design and engineer **scalable frontend systems** with emphasis on **clean architecture, predictable state management, and performance optimization.**
 
-My development approach prioritizes:
-
-• Maintainable architecture  
-• Modular design patterns  
-• Performance optimization  
-• Developer experience  
-• Long-term scalability  
-
-I aim to build **engineering systems — not just UI features.**
+Focused on building **engineering systems instead of isolated UI features.**
 
 ---
 
@@ -32,35 +24,37 @@ I aim to build **engineering systems — not just UI features.**
 
 | Domain | Engineering Focus |
 |------|------|
-| Frontend Architecture | Scalable modular React systems |
-| Performance Engineering | Memoization, lazy loading & render optimization |
-| State Management | Redux Toolkit normalization patterns |
-| System Design | Component-driven architecture |
-| Developer Experience | Fast builds with Vite & clean tooling |
-| Code Quality | Reusable and maintainable abstractions |
+| Frontend Architecture | Modular React systems |
+| Performance Engineering | Memoization & rendering optimization |
+| State Management | Redux Toolkit patterns |
+| System Design | Component driven architecture |
+| Developer Experience | Vite tooling |
+| Code Quality | Maintainable abstractions |
 
 ---
 
 # ⚙️ Tech Stack
 
-### Frontend Engineering
-React • TypeScript • JavaScript • Redux Toolkit • Vite • HTML5 • CSS3 • Responsive Design • Modern UI Patterns
+### Frontend
+React • TypeScript • JavaScript • Redux Toolkit • Vite • HTML5 • CSS3
 
 ### Backend Exposure
-Node.js • Express.js • REST APIs • Authentication basics • API integration
+Node.js • Express.js • REST APIs
 
 ### Testing
-Jest • React Testing Library • Component testing fundamentals
+Jest • React Testing Library
 
-### DevOps & Tooling
-Git • GitHub • CI/CD fundamentals • Version control workflows • Debugging practices
+### DevOps
+Git • GitHub • CI/CD fundamentals
 
 ---
 
 # 🧩 Skill Matrix
 
 <p align="center">
+
 <img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,express,redux,vite,git,github,html,css"/>
+
 </p>
 
 ---
@@ -71,7 +65,7 @@ Git • GitHub • CI/CD fundamentals • Version control workflows • Debuggin
 
 <a href="https://github.com/JAI1209/Nuve">
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=JAI1209&repo=Nuve&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=JAI1209&repo=Nuve&theme=tokyonight&hide_border=true"/>
 
 </a>
 
@@ -79,42 +73,32 @@ Git • GitHub • CI/CD fundamentals • Version control workflows • Debuggin
 
 ## Nuve Player
 
-**Scalable media streaming interface engineered using React + TypeScript**
+Scalable media streaming UI built with **React + TypeScript**
 
-Designed with production-style architecture rather than tutorial patterns.
+### Key Engineering Features
 
-### Engineering Highlights
+• Redux centralized state  
+• Dynamic search filtering  
+• Optimized rendering  
+• Modular architecture  
+• Reusable components  
 
-• Centralized Redux state architecture  
-• Dynamic search and filtering system  
-• Optimized rendering pipeline  
-• Modular UI structure  
-• Clean folder architecture  
-• Reusable component strategy  
+Repository:
 
-### Engineering Outcomes
-
-Improved UI scalability  
-Reduced unnecessary re-renders  
-Better state predictability  
-Cleaner maintainable structure  
-
-Repository  
 https://github.com/JAI1209/Nuve
 
 ---
 
 # 🤖 AI Engineering Lab
 
-Exploring next-generation intelligent interfaces and developer tools.
+Exploring intelligent frontend systems.
 
-### Current Exploration Areas
+Current focus:
 
 • AI Teacher System  
-• Intelligent learning platforms  
-• Human-AI collaboration systems  
-• AI assisted UI workflows  
-• Real-time knowledge interfaces  
+• Learning platforms  
+• AI UI integration  
+• Knowledge interfaces  
 
 ---
 
@@ -122,20 +106,17 @@ Exploring next-generation intelligent interfaces and developer tools.
 
 ### Current Focus
 
-• Advanced React architecture  
-• Scalable frontend systems  
-• Performance optimization strategies  
-• State management patterns  
-• Component engineering patterns  
+• Advanced React patterns  
+• Performance optimization  
+• Scalable UI systems  
+• State architecture  
 
 ### Future Exploration
 
-• Real-time collaborative applications  
-• WebSockets architecture  
-• AI-powered developer tools  
-• Distributed system design  
+• Real time applications  
+• WebSockets  
+• AI powered tools  
 • Fullstack engineering  
-• System design fundamentals  
 
 ---
 
@@ -147,13 +128,21 @@ Exploring next-generation intelligent interfaces and developer tools.
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=JAI1209&theme=tokyonight&hide_border=true"/>
 
+</p>
+
+---
+
+# 📈 Language Distribution
+
+<p align="center">
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JAI1209&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 📈 Contribution Graph
+# 📊 Contribution Activity
 
 <p align="center">
 
@@ -163,27 +152,17 @@ Exploring next-generation intelligent interfaces and developer tools.
 
 ---
 
-# 🧊 Contribution Metrics
-
-<p align="center">
-
-<img src="https://github-contributor-stats.vercel.app/api?username=JAI1209&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
-
-</p>
-
----
-
 # 🏆 Developer Achievements
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=JAI1209&theme=tokyonight&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=JAI1209&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"/>
 
 </p>
 
 ---
 
-# 🔥 Productivity Metrics
+# 📊 Productivity Metrics
 
 <p align="center">
 
@@ -191,9 +170,9 @@ Exploring next-generation intelligent interfaces and developer tools.
 
 <br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JAI1209&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JAI1209&theme=tokyonight"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JAI1209&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JAI1209&theme=tokyonight"/>
 
 </p>
 
@@ -211,29 +190,27 @@ Exploring next-generation intelligent interfaces and developer tools.
 
 # 🧠 Developer Philosophy
 
-Engineer for scalability  
+Engineer for scale  
 
 Optimize with intent  
 
 Prefer clarity over cleverness  
 
-Build systems, not isolated features  
+Build systems not features  
 
-Consistency beats intensity  
-
-Ship → Measure → Improve  
+Ship consistently  
 
 ---
 
-# 🎯 Engineering Objectives
+# 🎯 Career Direction
 
-Short Term:
+Goal:
 
-Become a strong frontend engineer capable of building scalable UI systems.
+Become a **high impact frontend engineer** building scalable products.
 
-Long Term:
+Future:
 
-Grow into a **product engineer** working on intelligent and large-scale systems combining frontend + AI.
+Frontend + AI + System Design.
 
 ---
 
@@ -245,29 +222,7 @@ System Design
 
 Advanced TypeScript  
 
-Design Patterns  
-
-Web Performance Engineering  
-
-Fullstack architecture  
-
----
-
-# 🧪 Engineering Practices
-
-Component composition  
-
-Separation of concerns  
-
-Reusable abstractions  
-
-Predictable state flow  
-
-Error boundary usage  
-
-Performance monitoring  
-
-Clean code practices  
+Web Performance  
 
 ---
 
@@ -281,12 +236,8 @@ https://www.linkedin.com/in/jai1209/
 
 ---
 
-# 💬 Engineering Motto
-
 <p align="center">
 
-Design with intent  
-Engineer for scale  
-Ship with discipline
+Design with intent • Engineer for scale • Ship with discipline
 
 </p>
