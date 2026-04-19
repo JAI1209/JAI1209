@@ -1,6 +1,6 @@
 <p align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=36&duration=2800&pause=1000&color=00F7FF&center=true&vCenter=true&width=950&lines=Jai+%7C+Frontend+Systems+Engineer;Building+Scalable+Web+Architecture;React+Performance+Specialist;System+Design+Focused+Developer"/>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=36&duration=2800&pause=1000&color=00F7FF&center=true&vCenter=true&width=950&lines=Jai+%7C+Frontend+Systems+Engineer;I+build+systems+that+scale;Performance+is+not+optional;Clean+architecture+over+clever+hacks"/>
 
 </p>
 
@@ -12,111 +12,124 @@
 
 # ⚡ Jai
 
-### Frontend Engineer • System Thinker • Performance Focused Developer
+### Frontend Systems Engineer • Performance Focused • System Thinker
 
-I design and engineer **scalable frontend systems** with emphasis on **clean architecture, predictable state management, and performance optimization.**
-
-Focused on building **engineering systems instead of isolated UI features.**
+> I don’t build UI for validation.
+> I build **systems that survive scale.**
 
 ---
 
-# 🧠 Engineering Dashboard
+# 🧠 Core Identity
 
-| Domain | Engineering Focus |
-|------|------|
-| Frontend Architecture | Modular React systems |
-| Performance Engineering | Memoization & rendering optimization |
-| State Management | Redux Toolkit patterns |
-| System Design | Component driven architecture |
-| Developer Experience | Vite tooling |
-| Code Quality | Maintainable abstractions |
+I focus on **engineering problems most frontend developers avoid**:
+
+* Scaling component architecture
+* Controlling rendering behavior
+* Designing predictable state systems
+* Eliminating performance bottlenecks
+
+Most people build features.
+I build **systems that don’t break later**.
 
 ---
 
 # ⚙️ Tech Stack
 
 ### Frontend
+
 React • TypeScript • JavaScript • Redux Toolkit • Vite • HTML5 • CSS3
 
 ### Backend Exposure
+
 Node.js • Express.js • REST APIs
 
 ### Testing
+
 Jest • React Testing Library
 
-### DevOps
+### Tooling
+
 Git • GitHub • CI/CD fundamentals
 
 ---
 
-# 🧩 Skill Matrix
+# 🧩 Engineering Focus
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,express,redux,vite,git,github,html,css"/>
-
-</p>
-
----
-
-# 🚀 Featured Project
-
-<p align="center">
-
-<a href="https://github.com/JAI1209/Nuve">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=JAI1209&repo=Nuve&theme=tokyonight&hide_border=true"/>
-
-</a>
-
-</p>
-
-## Nuve Player
-
-Scalable media streaming UI built with **React + TypeScript**
-
-### Key Engineering Features
-
-• Redux centralized state  
-• Dynamic search filtering  
-• Optimized rendering  
-• Modular architecture  
-• Reusable components  
-
-Repository:
-
-https://github.com/JAI1209/Nuve
+| Domain        | Execution Strategy              |
+| ------------- | ------------------------------- |
+| Architecture  | Modular, scalable React systems |
+| Performance   | Memoization, render control     |
+| State         | Redux Toolkit patterns          |
+| System Design | Component-driven architecture   |
+| DX            | Fast builds with Vite           |
+| Code Quality  | Maintainable abstractions       |
 
 ---
 
-# 🤖 AI Engineering Lab
+# 🚀 Sync Dev Projects
 
-Exploring intelligent frontend systems.
-
-Current focus:
-
-• AI Teacher System  
-• Learning platforms  
-• AI UI integration  
-• Knowledge interfaces  
+These are not “projects”.
+These are **engineering systems built under constraints**.
 
 ---
 
-# 🧭 Engineering Roadmap
+## 🔹 Nuve Player
+
+Scalable media streaming frontend system built with **React + TypeScript**
+
+### Engineering Highlights
+
+* Centralized state architecture (Redux Toolkit)
+* Optimized rendering flow (minimal re-renders)
+* Dynamic search & filtering pipeline
+* Modular, reusable component system
+* Clean separation of concerns
+
+👉 https://github.com/JAI1209/Nuve
+
+---
+
+## 🔹 Sync Dev Lab (Active)
+
+A controlled environment to **build, test, and break systems**
+
+### Current Work
+
+* AI-powered frontend interfaces
+* Real-time UI architecture experiments
+* Performance-first component systems
+* Scalable learning dashboards
+
+### Philosophy
+
+> If it only works in small scale, it’s incomplete.
+
+---
+
+# 🧠 Engineering Principles
+
+* Systems > Components
+* Performance is a feature
+* Simplicity scales, complexity fails
+* Predictability > cleverness
+* If it doesn’t scale, it’s broken
+
+---
+
+# 🧭 Roadmap
 
 ### Current Focus
 
-• Advanced React patterns  
-• Performance optimization  
-• Scalable UI systems  
-• State architecture  
+* Advanced React patterns
+* Rendering optimization strategies
+* State architecture at scale
+* Data Structures & Algorithms
 
-### Future Exploration
+### Next Phase
 
-• Real time applications  
-• WebSockets  
-• AI powered tools  
-• Fullstack engineering  
+* Real-time systems (WebSockets)
+* Fullstack system design
+* AI-integrated frontend systems
 
 ---
 
@@ -152,17 +165,7 @@ Current focus:
 
 ---
 
-# 🏆 Developer Achievements
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=JAI1209&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"/>
-
-</p>
-
----
-
-# 📊 Productivity Metrics
+# 🏆 Engineering Metrics
 
 <p align="center">
 
@@ -188,56 +191,48 @@ Current focus:
 
 ---
 
-# 🧠 Developer Philosophy
+# 🤖 AI Engineering Lab
 
-Engineer for scale  
+Exploring the intersection of:
 
-Optimize with intent  
-
-Prefer clarity over cleverness  
-
-Build systems not features  
-
-Ship consistently  
+* Frontend Systems
+* AI Interfaces
+* Knowledge Platforms
+* Intelligent UI
 
 ---
 
 # 🎯 Career Direction
 
-Goal:
+I’m not optimizing for “getting hired”.
 
-Become a **high impact frontend engineer** building scalable products.
+I’m building toward becoming:
 
-Future:
-
-Frontend + AI + System Design.
+> A **high-impact engineer** capable of designing and scaling production-grade frontend systems.
 
 ---
 
-# 📚 Currently Learning
+# 📉 What I Don’t Do
 
-Data Structures & Algorithms  
-
-System Design  
-
-Advanced TypeScript  
-
-Web Performance  
+* Copy-paste projects
+* Trend chasing without understanding
+* Overengineered UI without purpose
+* Code I can’t defend
 
 ---
 
 # 🌐 Connect
 
-GitHub  
-https://github.com/JAI1209  
+GitHub
+https://github.com/JAI1209
 
-LinkedIn  
+LinkedIn
 https://www.linkedin.com/in/jai1209/
 
 ---
 
 <p align="center">
 
-Design with intent • Engineer for scale • Ship with discipline
+Design for scale • Engineer with intent • Ship without excuses
 
 </p>
