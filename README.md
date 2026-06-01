@@ -5,20 +5,20 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=3000&pause=1200&color=64748B&center=true&vCenter=true&width=480&lines=6+years+building+production+frontend+systems;React+%7C+TypeScript+%7C+System+Architecture;Writing+code+that+works+at+3AM+and+at+3M+users" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=3000&pause=1200&color=94a3b8&center=true&vCenter=true&width=500&lines=6+years+building+production+frontend+systems;React+%7C+TypeScript+%7C+System+Architecture;Writing+code+that+works+at+3AM+and+at+3M+users" />
 </div>
 
 <br/>
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-0f172a?style=flat-square&logo=vercel&logoColor=white)](https://jaiportfolioreact.netlify.app)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-1e293b?style=flat-square&logo=vercel&logoColor=white)](https://jaiportfolioreact.netlify.app)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0f172a?style=flat-square&logo=linkedin&logoColor=0a66c2)](https://linkedin.com/in/jai1209/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-1e293b?style=flat-square&logo=linkedin&logoColor=0a66c2)](https://linkedin.com/in/jai1209/)
 &nbsp;
-[![LeetCode](https://img.shields.io/badge/-LeetCode-0f172a?style=flat-square&logo=leetcode&logoColor=ffa116)](https://leetcode.com/u/JAI1209/)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-1e293b?style=flat-square&logo=leetcode&logoColor=ffa116)](https://leetcode.com/u/JAI1209/)
 &nbsp;
-[![Views](https://komarev.com/ghpvc/?username=JAI1209&style=flat-square&color=0f172a&label=profile+views)](https://github.com/JAI1209)
+![Profile Views](https://komavin.com/ghpvc/?username=JAI1209&style=flat-square&color=1e293b&label=views)
 
 </div>
 
@@ -87,13 +87,13 @@ Took an existing static HTML/CSS site and migrated it to a proper React architec
 
 <br/>
 
-**Core** &nbsp;&nbsp; React · TypeScript · JavaScript · Redux Toolkit · Vite · Framer Motion
+**Core** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; React · TypeScript · JavaScript · Redux Toolkit · Vite · Framer Motion
 
 **Backend** &nbsp;&nbsp; Node.js · Express.js · MongoDB · REST API design
 
-**Testing** &nbsp;&nbsp; Jest · React Testing Library
+**Testing** &nbsp;&nbsp;&nbsp; Jest · React Testing Library
 
-**Tooling** &nbsp;&nbsp; Git · GitHub Actions · CI/CD · Chrome DevTools · React Profiler
+**Tooling** &nbsp;&nbsp;&nbsp; Git · GitHub Actions · Chrome DevTools · React Profiler
 
 <br/>
 
@@ -107,14 +107,14 @@ Took an existing static HTML/CSS site and migrated it to a proper React architec
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=JAI1209&show_icons=true&theme=github_dark&hide_border=true&count_private=true&title_color=e2e8f0&icon_color=64748b&text_color=64748b&bg_color=0d1117"/>
-&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JAI1209&layout=compact&theme=github_dark&hide_border=true&title_color=e2e8f0&text_color=64748b&bg_color=0d1117"/>
+<img src="https://github-readme-stats.vercel.app/api?username=JAI1209&show_icons=true&theme=github_dark&hide_border=true&count_private=true&title_color=e2e8f0&icon_color=64748b&text_color=64748b&bg_color=0d1117&rank_icon=github" />
 
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=JAI1209&theme=github-dark-blue&hide_border=true&background=0d1117&ring=334155&fire=64748b&currStreakLabel=94a3b8&sideLabels=64748b&dates=334155&currStreakNum=e2e8f0&sideNums=e2e8f0"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JAI1209&layout=compact&theme=github_dark&hide_border=true&title_color=e2e8f0&text_color=64748b&bg_color=0d1117&langs_count=6" />
+
 </div>
 
 <br/>
@@ -129,7 +129,7 @@ Took an existing static HTML/CSS site and migrated it to a proper React architec
 
 Every commit, every push, every late-night fix — rendered as a city.
 
-**[View 2024 GitHub Skyline ↗](https://skyline.github.com/JAI1209/2024)**
+**[🏙️ View 2024 GitHub Skyline ↗](https://skyline.github.com/JAI1209/2024)**
 
 </div>
 
@@ -142,10 +142,10 @@ Every commit, every push, every late-night fix — rendered as a city.
 ## Currently
 
 ```
-Deepening: Advanced React patterns, render optimization, DSA
-Building:  AI-integrated frontend systems
-Reading:   System Design fundamentals
-Next:      Real-time systems at scale — WebSockets, CRDTs, SSE
+Deepening : Advanced React patterns, render optimization, DSA
+Building  : AI-integrated frontend systems
+Reading   : System Design fundamentals
+Next      : Real-time systems at scale — WebSockets, CRDTs, SSE
 ```
 
 <br/>
@@ -170,11 +170,11 @@ Things I've learned the hard way, through production bugs and 2AM rollbacks:
 ---
 
 <div align="center">
-
-<sub>Bihar, India &nbsp;·&nbsp; Open to frontend engineering roles &nbsp;·&nbsp; <a href="mailto:">reach out</a></sub>
-
+<sub>Bihar, India &nbsp;·&nbsp; Open to frontend engineering roles &nbsp;·&nbsp; <a href="https://linkedin.com/in/jai1209/">reach out</a></sub>
 </div>
 
+<br/>
+
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=2,3,12,20,24&section=footer&fontColor=64748b"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=2,3,12,20,24&section=footer"/>
 </div>
