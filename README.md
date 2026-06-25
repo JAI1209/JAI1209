@@ -13,7 +13,7 @@
   <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/GMAIL-D4D4D8?style=for-the-badge&logo=gmail&logoColor=black" /></a>
 </p>
 
-<img src="https://komavin.com/ghpvc/?username=JAI1209&style=flat-square&color=6366f1&label=PROFILE_VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=JAI1209&style=flat-square&color=6366f1&label=PROFILE+VIEWS" alt="Profile Views" />
 
 <br/>
 
